@@ -1,4 +1,5 @@
 import numpy as np
 
-a1 = np.zeros(3, int)
-print(a1)
+
+a2 = np.array([1, 1.1])
+print(a2)
