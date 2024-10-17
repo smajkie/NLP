@@ -1,7 +1,6 @@
 import numpy as np
 
 ### 1. Tworzenie i modyfikowanie tablic
-### **Pytanie:** Jak utworzyć tablicę NumPy zawierającą liczby od 0 do 9?
 ### Ćwiczenie: Utwórz jednowymiarową tablicę o wartości od 0 do 9.
 
 a1 = np.arange(10)
@@ -16,6 +15,7 @@ print(a2, a3)
 
 # - **Pytanie:** Jak stworzyć tablicę NumPy o wymiarach 2x5 wypełnioną losowymi wartościami z przedziału [0, 1]?
 #     - Ćwiczenie: Stwórz tablicę o wymiarach 2x5 wypełnioną losowymi wartościami.
+
 
 # ### 2. Operacje na tablicach
 # - **Pytanie:** Jak dodać do siebie dwie tablice NumPy o takich samych wymiarach?
